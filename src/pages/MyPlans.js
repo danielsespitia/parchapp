@@ -1,5 +1,9 @@
 function MyPlans() {
-  return <></>;
+  return (
+    <>
+      <h1>My Plans</h1>
+    </>
+  );
 }
 
 export default MyPlans;
